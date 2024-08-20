@@ -1,0 +1,32 @@
+'''Coding Questions
+        Basic Looping:
+
+        1.Write a Python program that prints the numbers 1 to 10 using a loop.
+        
+        List Operations:
+
+        Create a list of numbers and write a program that doubles each number in the list.
+        Random Selection:
+
+        Write a program that randomly selects an item from a list of fruits.
+        String Manipulation:
+
+        Write a program that takes a string input from the user and prints it in reverse order.
+        Function Basics:
+
+        Write a function that takes two numbers as arguments and returns their sum.
+        Dictionary Operations:
+
+        Create a dictionary of students and their grades. Write a program to print each student’s grade.
+        Nested Loops:
+
+        Write a program that prints a multiplication table (1-10) using nested loops.
+        Conditional Statements:
+
+        Write a program that takes a user’s age as input and checks if they are eligible to vote.
+        List Copying:
+
+        Explain the difference between list.copy() and list[:] in Python.
+        Advanced String Formatting:
+
+        Write a program that formats a list of names into a single string, separated by commas, with "and" before the last name.'''
